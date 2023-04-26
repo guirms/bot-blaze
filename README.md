@@ -1,4 +1,4 @@
-<h1 align="center">Blaze bot for double</h1>
+<h1 align="center">Bot da plataforma de apostas Blaze para o jogo Double</h1>
 
 >Status: Incompleto ⚠️
 
